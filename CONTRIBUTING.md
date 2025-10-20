@@ -1,6 +1,5 @@
 # Contributing
 
-Thanks for improving this portfolio API!
 
 ## Setup
 1) Create venv and install:
